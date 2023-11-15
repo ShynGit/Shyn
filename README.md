@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 </h3>
 
 <h2 align="center">
-I'm a Front-end Web Developer 💻!
+I'm a Fullstack Web/Mobile Developer 💻!
 </h2> 
 
 ## 💼 Technical Skills
